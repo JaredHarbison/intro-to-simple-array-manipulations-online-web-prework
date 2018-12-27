@@ -44,5 +44,5 @@ end
 
 def using_delete_at (array, integer)
   index=integer -1
-  array.delete(index)
+  puts array.delete(index)
 end
